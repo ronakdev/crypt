@@ -1,0 +1,34 @@
+{
+  "name": "@ronakshah/shah-crypt",
+  "version": "0.0.3",
+  "description": "Encryption Algorithm that uses the Shah Cipher to secure files",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronakdev/cipher.git"
+  },
+  "keywords": [
+    "cryptography",
+    "shah",
+    "cipher",
+    "encrypt",
+    "files",
+    "secure",
+    "files",
+    "secure",
+    "file"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "github-pages-commit": "index.js"
+  },
+  "author": "Ronak Shah",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ronakdev/cipher/issues"
+  },
+  "homepage": "https://github.com/ronakdev/cipher#readme",
+  "main": "index.js"
+}
